@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SynchroApp": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Damian\\Desktop\\TestFolder\\SourceFolder C:\\Users\\Damian\\Desktop\\TestFolder\\ReplicaFolder C:\\Users\\Damian\\Desktop\\TestFolder\\ 0:0:10"
+    }
+  }
+}
